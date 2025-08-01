@@ -20,25 +20,23 @@ SnekFlow is a Python-based game built with the `pygame` library. It simulates sm
 1. Make sure Python is installed on your system:
    ```bash
    python --version
-    ```
-   
+```
 2.Install the required library:
    ```bash
   pip install pygame
-    ```
-
+```
 3.Run the game:
   ```bash
   python snekflow.py
- ```
-
+```
 ##📁 Project Structure
-
+  ```bash
 SnekFlow/
 ├── snekflow.py         # Main game file
 ├── assets/             # Folder for images/sounds (if used)
 ├── README.md           # Project description
 └── requirements.txt    # Optional: dependencies list
+ ```
 
 ##📸 Screenshots
 Add screenshots here if available
